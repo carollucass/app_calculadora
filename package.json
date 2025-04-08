@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.8.4",
     "preact": "^10.26.2"
   },
   "devDependencies": {
